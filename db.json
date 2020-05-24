@@ -1,0 +1,167 @@
+{
+  "about_us": [
+    {
+      "id": "1",
+      "name": "Civil Law",
+      "description": "We practice civil law at our law firm. Any kind of house, property, family matters can be consulted with us."
+    },
+    {
+      "id": "2",
+      "name": "Law of Taxation",
+      "description": "We practice law of taxation at our law firm. Any kind of issues related to taxes like income tax, property tax, company tax, customs can be consulted with us."
+    },
+    {
+      "id": "3",
+      "name": "Administrative Law",
+      "description": "We practice Administrative Law at our law firm. Any kind of legal issues related with the administration of any company, organization or family can be consulted with us."
+    },
+    {
+      "id": "4",
+      "name": "Business and Corporate Law",
+      "description": "We provide legal assistace to the business firms and registered bisiness bodies also provide legal assistance to unregistererd business firms in the process of being legal."
+    },
+    {
+      "id": "5",
+      "name": "Foregin Investment Law",
+      "description": "We provide legal assistace to the companies and bodies that are going to keep international relation in businesses or any other activies with the bodies outside the boundry of Nepal."
+    },
+    {
+      "id": "6",
+      "name": "Criminal Justice",
+      "description": "Innocent till proven guilty is the major motto of our firm. We provide the necessary aid to the bodies that requires aid in the field of criminal justice."
+    },
+    {
+      "id": "7",
+      "name": "Banking / Finance Law",
+      "description": "We provide the legal assistance and advisory in the areas of banking sectors. We also provide legal assistance to the different bodies in finance and Co-Operative sectors in Nepal."
+    },
+    {
+      "id": "8",
+      "name": "Legal-Translation",
+      "description": "We translate your documents in the different languges. Legal papers from citizenship,passports to the legal notices, and papers are translated."
+    },
+    {
+      "id": "9",
+      "name": "Miscellaneous",
+      "description": "Other serives like Notary, Employment Law, Constitutional law, Writ Jurisdiction, Legal Research, Hydro Power Law, Electricity Law and Information and Technology Law are also practiced in this firm."
+    }
+  ],
+  "feedback": [
+    {
+      "Name": "Saumya Bhandari",
+      "Email": "saumyabhandary22@gmail.com",
+      "Message": "I am very pleased.",
+      "id": 1
+    },
+    {
+      "Name": "Saumya Bhandari",
+      "Email": "saumyabhandary22@gmail.com",
+      "Message": "I am very pleased.",
+      "id": 2
+    },
+    {
+      "Name": "Uhinika",
+      "Email": "saasdgkjba@gmail.com",
+      "Message": "afgknla bsdjgi asdvnaper",
+      "id": 3
+    },
+    {
+      "Name": "asdo;kgln",
+      "Email": "ds;fljnhoa;n",
+      "Message": "gs;nado'gln'",
+      "id": 4
+    }
+  ],
+  "clientRequests": [
+    {
+      "Name": "Saumya Bhandari",
+      "D.O.B": "2000-12-27",
+      "Phone No": "9843866411",
+      "Email": "saumyabhandary22@gmail.com",
+      "Service Type": "Criminal law",
+      "State": "3",
+      "District": "Kathmandu",
+      "Municipality": "Mulpani",
+      "Ward": "7",
+      "Temporary State": "3",
+      "Temporary District": "Kathmandu",
+      "Temporary Municipality": "Mulpani",
+      "Temporary Ward": "7",
+      "Problem Description": "I am once again asking for your financial support.",
+      "Document Image": "C:\\fakepath\\Screenshot (3).png",
+      "id": 1
+    },
+    {
+      "Name": "Birkhe",
+      "D.O.B": "1914",
+      "Phone No": "9841",
+      "Email": "harke@gmail.com",
+      "Service Type": "Criminal law",
+      "State": "manu",
+      "District": "naka",
+      "Municipality": "nama",
+      "Ward": "",
+      "Temporary State": "",
+      "Temporary District": "",
+      "Temporary Municipality": "",
+      "Temporary Ward": "",
+      "Problem Description": "",
+      "Document Image": "",
+      "id": 2
+    },
+    {
+      "Name": "roshan parajuli",
+      "D.O.B": "12345",
+      "Phone No": "67890",
+      "Email": "saumya@gmail.com",
+      "Service Type": "Information and Technology Law",
+      "State": "asgrhetagh",
+      "District": "jabv",
+      "Municipality": "sdlfg ",
+      "Ward": "ssdfjh ",
+      "Temporary State": "sdjfh ",
+      "Temporary District": "sdlfk;hn",
+      "Temporary Municipality": "lskgn",
+      "Temporary Ward": "alersdalgkn",
+      "Problem Description": "sdlf;knelk'gnsd'k v",
+      "Document Image": "C:\\fakepath\\Screenshot (5).png",
+      "id": 3
+    },
+    {
+      "Name": "adgs",
+      "D.O.B": "/mb ",
+      "Phone No": "s;dflknb",
+      "Email": "sd;lfkbn",
+      "Service Type": "Employment Law",
+      "State": ";slkng",
+      "District": "asgnj",
+      "Municipality": "a;eogn",
+      "Ward": "a;ogn",
+      "Temporary State": "akgn",
+      "Temporary District": "asdkgn",
+      "Temporary Municipality": "as;dklgn",
+      "Temporary Ward": "ae;gkn",
+      "Problem Description": "adlkgnk",
+      "Document Image": "",
+      "id": 4
+    },
+    {
+      "Name": "ksdjag;",
+      "D.O.B": "dsjga",
+      "Phone No": "sdkjf;",
+      "Email": "sdkaljg",
+      "Service Type": "Employment Law",
+      "State": "askd;gj ",
+      "District": "askldjg",
+      "Municipality": "askj;dgn",
+      "Ward": "a;jdgn",
+      "Temporary State": "a;ljgn",
+      "Temporary District": "as;dk ",
+      "Temporary Municipality": "as;ldkn",
+      "Temporary Ward": "as;kjgn",
+      "Problem Description": "a;ldkgn",
+      "Document Image": "",
+      "id": 5
+    }
+  ]
+}
